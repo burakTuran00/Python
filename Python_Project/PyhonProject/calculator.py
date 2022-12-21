@@ -1,4 +1,4 @@
-x  = float(input("What's x: "));
+x = float(input("What's x: "));
 y = float(input("What's y: "));
 
 sum = x + y;
